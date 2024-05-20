@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kzlXfzn354vZrUd6Q89itSD+N8RjFEE67ukkWg9BWfJXkdH8zYAYnxVU+sij/9EAWHdXVQ0SzLpcDQHt+gJfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdsbr\\OneDrive\\Área de Trabalho\\Nova pasta\\FlightSearchAPI\\FlightSearchAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdsbr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mdsbr\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\mdsbr\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.1\\swashbuckle.aspnetcore.6.6.1.nupkg.sha512",
+    "C:\\Users\\mdsbr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.1\\swashbuckle.aspnetcore.swagger.6.6.1.nupkg.sha512",
+    "C:\\Users\\mdsbr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.1\\swashbuckle.aspnetcore.swaggergen.6.6.1.nupkg.sha512",
+    "C:\\Users\\mdsbr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.1\\swashbuckle.aspnetcore.swaggerui.6.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
